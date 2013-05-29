@@ -13,13 +13,13 @@ class ModuleInfo extends Info{
 		$this->unix = "FileManager";
 		
 		//Title setup
-		$this->title = "LCMS FileManager";
+		$this->title = "ContentMadeSimple FileManager";
 		
 		//Setup Author
-		$this->author = "LotusCMS Integration Team";
+		$this->author = "ContentMadeSimple Integration Team";
 		
 		//Support URL
-		$this->support = "http://forum.lotuscms.org";
+		$this->support = "http://norox.org/cms";
 		
 		//Version
 		$this->version = "1.0";
@@ -31,7 +31,7 @@ class ModuleInfo extends Info{
 		$this->overrider = false;
 		
 		//Organisation Committing Development
-		$this->organisation = "LotusCMS Core Development Team";
+		$this->organisation = "ContentMadeSimple Core Development Team";
 	}
 }
 

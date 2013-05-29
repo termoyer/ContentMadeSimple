@@ -15,13 +15,13 @@ class ModuleInfo extends Info{
 		$this->unix = "Blog";
 		
 		//Title setup
-		$this->title = "LCMS News/Blogging";
+		$this->title = "ContentMadeSimple News/Blogging";
 		
 		//Setup Author
-		$this->author = "LotusCMS Development Team";
+		$this->author = "ContentMadeSimple Development Team";
 		
 		//Support URL
-		$this->support = "http://forum.lotuscms.org";
+		$this->support = "http://norox.org/cms";
 		
 		//Version
 		$this->version = "1.0";

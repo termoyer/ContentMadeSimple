@@ -13,13 +13,13 @@ class ModuleInfo extends Info{
 		$this->unix = "Backup";
 		
 		//Title setup
-		$this->title = "LCMS Backup";
+		$this->title = "ContentMadeSimple Backup";
 		
 		//Setup Author
-		$this->author = "LotusCMS Development Team";
+		$this->author = "ContentMadeSimple Development Team";
 		
 		//Support URL
-		$this->support = "http://forum.lotuscms.org";
+		$this->support = "http://norox.org/cms";
 		
 		//Version
 		$this->version = "1.2";
@@ -31,7 +31,7 @@ class ModuleInfo extends Info{
 		$this->overrider = false;
 		
 		//Organisation Committing Development
-		$this->organisation = "LotusCMS Core Development Team";
+		$this->organisation = "ContentMadeSimple Core Development Team";
 	}
 }
 

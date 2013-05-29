@@ -13,13 +13,13 @@ class ModuleInfo extends Info{
 		$this->unix = "Nicedit";
 		
 		//Title setup
-		$this->title = "LCMS Nicedit Integration";
+		$this->title = "ContentMadeSimple Nicedit Integration";
 		
 		//Setup Author
-		$this->author = "LotusCMS Development Team";
+		$this->author = "ContentMadeSimple Development Team";
 		
 		//Support URL
-		$this->support = "http://forum.lotuscms.org";
+		$this->support = "http://norox.org/cms";
 		
 		//Version
 		$this->version = "1.1";
@@ -31,7 +31,7 @@ class ModuleInfo extends Info{
 		$this->overrider = false;
 		
 		//Organisation Committing Development
-		$this->organisation = "LotusCMS Core Development Team";
+		$this->organisation = "ContentMadeSimple Core Development Team";
 	}
 }
 
