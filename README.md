@@ -5,6 +5,7 @@ Easy and lightweight Content Management System
 
 - What is it?
 - What do I need?
+- Known Issues!
 - Something else, important to know?
 - Getting started!
 - Finish!
@@ -23,12 +24,18 @@ The only things you need:
   - A FTP-Client, which allows you to upload Files/Folders onto your Webspace and set rights
   - A Webbrowser and about 2 minutes of time t setup your ContentMadeSimple-Website
 
+-> Known Issues!
+This issues are known and do not need to be reportet:
+  - Dashboard: There is a red and a green message, when CMS is up to date.
+  - Dashboard: The update reminder may not work 100% correctly. Please have a look at the news section at the right bottom of the dashboard to notice a new update!
+  - Modules: Site "find more plugins" can not be shown.
+  - Update Plugin-function do not work correctly. Allways shows an available update but there isn't!
+
+We are working hard on fixing them. Please stay updated with your CMS!
+
 -> Something else, important to know?
 
-Yeah, there is one thing, what may be a problem: The Core (find in in "core" folder of your copy) of ContentMadeSimple needs to be updated from time to time. 
-Normally the CMS should autmaticly inform you about an available update, but we can't be sure yet! What it means for you? This: You should be sure, that you have installed the latest version.
-For this reason, we've build in a newsmodule right onto the lower right of the Admin's Dashboard. It allows us to tell you news everytime something happens. In this case, when a new version is released.
-Please be sure to check this News-Section evertime you login to the Admin. Thanks!
+Not now. Please see the kown issues above before you start working!
 
 -> Getting Started!
 
