@@ -6,6 +6,7 @@ Easy and lightweight Content Management System
 - What is it?
 - What do I need?
 - Known Issues!
+- Planned Features!
 - Something else, important to know?
 - Getting started!
 - Finish!
@@ -32,6 +33,15 @@ This issues are known and do not need to be reportet:
   - Update Plugin-function do not work correctly. Allways shows an available update but there isn't!
 
 We are working hard on fixing them. Please stay updated with your CMS!
+
+->Planned Features
+This Features are planned. They may come in future updates:
+  - Solving all problems (see: known issues)
+  - Built in Template-source (Download new templates)
+  - Built in Site tracker (Track the visitors of your site)
+  - Changeable admin UI (Templates for admin area)
+  - and much more...
+If you are having some ideas, please drop them to us through GitHub or send us an email at support@norox.org
 
 -> Something else, important to know?
 
