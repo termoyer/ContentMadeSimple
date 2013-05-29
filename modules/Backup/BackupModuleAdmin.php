@@ -98,7 +98,7 @@ class ModuleAdmin extends Admin{
 		$output = $this->zipRequest(false);
 		
 		if(!empty($output)){
-			$this->setContent("<p>Sorry, restore cannot continue as an error occur while LCMS was backing up the current state of the data directory. Please chmod 'modules/Backup/zips' to 777.</p>");
+			$this->setContent("<p>Sorry, restore cannot continue as an error occur while CMS was backing up the current state of the data directory. Please chmod 'modules/Backup/zips' to 777.</p>");
 		}else{
 			include_once('modules/Backup/pclzip.lib.php');
 			

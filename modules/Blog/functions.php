@@ -39,7 +39,7 @@ class WingedNews {
 					'alias' => 0,
 					'uri' => 'index.php?system=Blog',
 					'title' => 'Blog',
-					'description' => 'Blog at LotusCMS'
+					'description' => 'Blog at ContentMadeSimple'
 					);
 		return array_merge($configs, parse_ini_file($this->configfile));
 	}

@@ -348,7 +348,7 @@ class ModuleAdmin extends Admin{
 	 */
 	public function manageRequest(){
 		
-		$data = "This Plugin's Administration has yet to be built by the LotusCMS team.";
+		$data = "This Plugin's Administration has yet to be built by the ContentMadeSimple team.";
 		
 		$this->setContent($data);
 	}
@@ -358,7 +358,7 @@ class ModuleAdmin extends Admin{
 	 */
 	public function settingRequest(){
 		
-		$data = "This Plugin's Administration has yet to be built by the LotusCMS team.";
+		$data = "This Plugin's Administration has yet to be built by the ContentMadeSimple team.";
 		
 		$this->setContent($data);
 	}
