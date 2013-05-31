@@ -1,0 +1,32 @@
+﻿**********************************************************************************
+* Welcome to ContentMadeSimple!                                                  *
+* In this Changelog, you will be able to see all changes made for each Release   *
+* little help: + = Feature added, - = Feature deleted, → = improved/Bug fixed    *
+**********************************************************************************
+*                    1.0.0 Release Candidate 1 Build 200                         *
+**********************************************************************************
+→ fixed Dashboard-Bug (Update notifications)                                     *
+→ fixed Dashboard-Bug (Update check)                                             *
+→ fixed Bug in Core-Update                                                       *
+→ fixed Bug in News Section of Dashboard                                         *
+→ more adapted to ContentMadeSimple                                              *
++ added documentation/readme-file                                                *
++ Downloadable at GitHub                                                         *
+**********************************************************************************
+*                       1.0.0 Release Candidate 1                                *
+**********************************************************************************
+→ more new images                                                                *
+→ little code changes = faster                                                   *
++ built-in core update system                                                    *
+**********************************************************************************
+*                           0.9.0 closed beta                                    *
+**********************************************************************************
+→ new images                                                                     *
+→ more adapted to ContentMadeSimple                                              *
+→ improved stability                                                             *
+**********************************************************************************
+*                            0.5.0 closed beta                                   *
+**********************************************************************************
+→ better coded = faster                                                          *
++ modules                                                                        *
+**********************************************************************************

@@ -39,7 +39,7 @@ class DashView extends View{
 		$this->setContent($content);
 		
 		//Set the title of the website
-		$this->setSiteTitle("LotusCMS Administration");
+		$this->setSiteTitle("ContentMadeSimple Administration");
 	}	
 	
 	/**
@@ -68,7 +68,7 @@ class DashView extends View{
 		$this->setContent($content);
 		
 		//Set the title of the website
-		$this->setSiteTitle("LotusCMS Administration");
+		$this->setSiteTitle("ContentMadeSimple Administration");
 	}
 	
 	/**

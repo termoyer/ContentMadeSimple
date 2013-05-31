@@ -39,10 +39,11 @@ class DashboardView extends Observer{
     	//Checks for update
     	$data = $this->checkForUpdate();
     	
-    	//If no update available.
+    	//Shows green Message if no update available...
     	if(empty($data)){
-    		$this->view->setErrorData("success", "Welcome to the new ContentMadeSimple 1.0.0 Release Candidate 1, visit the <a href='http://norox.org/cms' target='_blank'>ContentMadeSimple Website</a> for help / questions");
-    	}else{
+    		$this->view->setErrorData("success", "Welcome to the new ContentMadeSimple! It seems, you are running the latest release! <br />Please visit the <a href='http://norox.org/cms' target='_blank'>ContentMadeSimple Website</a> for help / questions");
+    	}//...or a red one.
+		else{
     		$this->view->setErrorData("error", $data);	
     	}
     	
