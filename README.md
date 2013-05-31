@@ -27,9 +27,10 @@ The only things you need:
 
 -> Known Issues!
 This issues are known and do not need to be reportet:
-  - Dashboard: There is a red and a green message, when CMS is up to date.
-  - Dashboard: The update reminder may not work 100% correctly. Please have a look at the news section at the right bottom of the dashboard to notice a new update!
-  - Modules: Site "find more plugins" can not be shown.
+  - (fixed in 1.0.0RC1:200) Dashboard: There is a red and a green message, when CMS is up to date.
+  - (fixed in 1.0.0RC1:200) Dashboard: The update reminder may not work 100% correctly. Please have a look at the news section at the right bottom of the dashboard to notice a new update!
+  - (deactivated in 1.0.0RC1:200) Modules: Site "find more plugins" can not be shown.
+  - (deactivated in 1.0.0RC1:200) Templates: Site "get more templates" can not be shown.
   - Update Plugin-function do not work correctly. Allways shows an available update but there isn't!
 
 We are working hard on fixing them. Please stay updated with your CMS!

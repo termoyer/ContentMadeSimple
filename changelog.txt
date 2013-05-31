@@ -10,6 +10,8 @@
 → fixed Bug in Core-Update                                                       *
 → fixed Bug in News Section of Dashboard                                         *
 → more adapted to ContentMadeSimple                                              *
+- deactivated function "Install More Templates" due to a known bug               *
+- deactivated function "Find More Plugins" due to a known bug                    *
 + added documentation/readme-file                                                *
 + Downloadable at GitHub                                                         *
 **********************************************************************************
