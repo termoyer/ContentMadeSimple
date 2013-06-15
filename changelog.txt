@@ -1,15 +1,20 @@
 ﻿**********************************************************************************
 * Welcome to ContentMadeSimple!                                                  *
+**********************************************************************************
 * In this Changelog, you will be able to see all changes made for each Release   *
-* little help: + = Feature added, - = Feature deleted, → = improved/Bug fixed    *
+**********************************************************************************
+*                                 Description:                                   *
+*                              + = Feature added                                 *
+*                             - = Feature deleted                                *
+*                            ↑ = improved/Bug fixed                              *
 **********************************************************************************
 *                    1.0.0 Release Candidate 1 Build 200                         *
 **********************************************************************************
-→ fixed Dashboard-Bug (Update notifications)                                     *
-→ fixed Dashboard-Bug (Update check)                                             *
-→ fixed Bug in Core-Update                                                       *
-→ fixed Bug in News Section of Dashboard                                         *
-→ more adapted to ContentMadeSimple                                              *
+↑ fixed Dashboard-Bug (Update notifications)                                     *
+↑ fixed Dashboard-Bug (Update check)                                             *
+↑ fixed Bug in Core-Update                                                       *
+↑ fixed Bug in News Section of Dashboard                                         *
+↑ more adapted to ContentMadeSimple                                              *
 - deactivated function "Install More Templates" due to a known bug               *
 - deactivated function "Find More Plugins" due to a known bug                    *
 + added documentation/readme-file                                                *
@@ -17,18 +22,18 @@
 **********************************************************************************
 *                       1.0.0 Release Candidate 1                                *
 **********************************************************************************
-→ more new images                                                                *
-→ little code changes = faster                                                   *
+↑ more new images                                                                *
+↑ little code changes = faster                                                   *
 + built-in core update system                                                    *
 **********************************************************************************
 *                           0.9.0 closed beta                                    *
 **********************************************************************************
-→ new images                                                                     *
-→ more adapted to ContentMadeSimple                                              *
-→ improved stability                                                             *
++ new images                                                                     *
+↑ more adapted to ContentMadeSimple                                              *
+↑ improved stability                                                             *
 **********************************************************************************
 *                            0.5.0 closed beta                                   *
 **********************************************************************************
-→ better coded = faster                                                          *
+↑ better coded = faster                                                          *
 + modules                                                                        *
 **********************************************************************************
