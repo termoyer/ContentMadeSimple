@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  *
  * GPL v4 
  * (c) ContentMadeSimple 2013.
@@ -9,7 +9,7 @@
  */
 //Start the session.
 session_start();
-
+//Check if session is set and redirect.
 if($_SESSION['login']){
 	include("core/lib/UpgradeCore.php");
 	
