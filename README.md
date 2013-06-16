@@ -75,7 +75,7 @@ If yes follow this steps:
 
 -> Finish!
 
-You should know be albe to use your ContentMadeSimple. If you are having any problems, let us know them and help you by contacting us. To do so visit http://norox.org/cms or write an email to support@norox.org .
+You should know be albe to use your ContentMadeSimple. If you are having any problems, let us know them and help you by contacting us. To do so visit http://cms.norox.org/ or write an email to support@norox.org .
 
 Last but not least we want to thank you very much for giving ContentMadeSimple a try and want to wish you a happy and simply Content Managing!
 Best wishes
