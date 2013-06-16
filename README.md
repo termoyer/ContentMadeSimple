@@ -11,11 +11,15 @@ Easy and lightweight Content Management System
 - Getting started!
 - Finish!
 
+---
+
 -> What is it?
 
 ContentMadeSimple wants to help you, create and organize your Website.
 It's a Content Management System, what means, it allows you to simply create/delete/modify Pages/Images/Settings and much more!
 The Core of this CMS bases on LotusCMS, which is not updated anymore, but ContentMadeSimple is!
+
+---
 
 -> What do I need?
 
@@ -24,6 +28,8 @@ The only things you need:
   - A Webspace that supports PHP (Generation 4 or later)
   - A FTP-Client, which allows you to upload Files/Folders onto your Webspace and set rights
   - A Webbrowser and about 2 minutes of time t setup your ContentMadeSimple-Website
+ 
+---
 
 -> Known Issues!
 This issues are known and do not need to be reportet:
@@ -35,6 +41,8 @@ This issues are known and do not need to be reportet:
 
 We are working hard on fixing them. Please stay updated with your CMS!
 
+---
+
 ->Planned Features
 This Features are planned. They may come in future updates:
   - Solving all problems (see: known issues)
@@ -44,9 +52,13 @@ This Features are planned. They may come in future updates:
   - and much more...
 If you are having some ideas, please drop them to us through GitHub or send us an email at support@norox.org
 
+---
+
 -> Something else, important to know?
 
 Not now. Please see the kown issues above before you start working!
+
+---
 
 -> Getting Started!
 
@@ -58,6 +70,8 @@ If yes follow this steps:
   - Open your browser and target the URL of your copy of ContentMadeSimple
   - Follow the easy installation
   - Create your new Website!
+
+---
 
 -> Finish!
 
