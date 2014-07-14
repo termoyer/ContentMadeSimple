@@ -17,7 +17,9 @@ Easy and lightweight Content Management System
 
 ContentMadeSimple wants to help you, create and organize your Website.
 It's a Content Management System, what means, it allows you to simply create/delete/modify Pages/Images/Settings and much more!
-The Core of this CMS bases on LotusCMS, which is not updated anymore, but ContentMadeSimple is!
+The Core of this CMS bases on LotusCMS, which is not updated anymore.
+
+PLEASE NOTE: This project is closed for now! There won't be any updates in the next time!
 
 ---
 
